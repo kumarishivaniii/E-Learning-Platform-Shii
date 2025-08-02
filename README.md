@@ -21,9 +21,4 @@ A responsive E-Learning website built using HTML, CSS, and JavaScript.
 - `script.js` - JavaScript for dynamic features
 - `/images` - Visual assets
 
-## 📸 Preview
-_
-
----
-
 Made with ❤️ by Shivani Kumari
